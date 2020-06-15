@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">List View</string>
+
+
+    <string-array name="country_name">
+        <item> Bangladesh </item>
+        <item> India </item>
+        <item> Pakistan </item>
+        <item> Nepal </item>
+        <item> Vhutan </item>
+        <item> China </item>
+        <item> Russia </item>
+        <item> Afganistan </item>
+        <item> Saudi Arab </item>
+        <item> Papua neo Gini </item>
+        <item> Newzeland </item>
+        <item> Australia </item>
+        <item> Srilanka </item>
+        <item> Maal Deep </item>
+
+    </string-array>
+
+
+    <string name="text">test text</string>
+</resources>
